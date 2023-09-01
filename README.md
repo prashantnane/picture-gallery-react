@@ -1,7 +1,7 @@
 # Picture Gallery - React App
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-An Application that shows images by its category name. This app fetches images from unsplash.com with the help API.
+An Application that shows images by its category name. This app fetches images from [unsplash.com](https://unsplash.com/) with the help API.
 
 ### Live Demo
 https://picture-gallery-react.netlify.app/
